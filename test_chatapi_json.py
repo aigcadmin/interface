@@ -17,8 +17,8 @@ class RecomInterface:
     def __init__(self):
         self.url = f"{IP_ADDRESS}/recommend"
     
-    def get_response(self, prompt=None):
-        response = requests.get(self.url)
+    def get_response(self, user_id, product_id):
+        response = requests.get(self.url+'/'+str(user_id)+'_'+str(product_id))
         return response.text
     
        
@@ -114,14 +114,35 @@ def run_chat_test(app):
 
 def run_search_test(app):
     search_res = app.get_response("coat")
+    print('\n--------search ... ---------')
     for item in eval(search_res):
-        print(item, end='\n\n')
+        print("commidity skuId: {}".format(item["skuId"]))
 
 
 def run_recom_test(app):
-    recom_res = app.get_response()
+    # pruduct_id > 0: recommend after the product detail page
+    user_id = 1234
+    product_id = 10078078061998
+    print('\n--------recommend after the product detail page---------')
+    recom_res = app.get_response(user_id, product_id)
     for item in eval(recom_res):
-        print(item, end='\n\n')
+        print("commidity skuId: {}".format(item["skuId"]))
+    
+    # productid = 0: recommend in the main page
+    user_id = 1234
+    product_id = 0
+    print('\n--------recommend in the main page---------')
+    recom_res = app.get_response(user_id, product_id)
+    for item in eval(recom_res):
+        print("commidity skuId: {}".format(item["skuId"]))
+    
+    # productid = -1: recommend after the shopping cart
+    user_id = 1234
+    product_id = -1
+    print('\n--------recommend after the shopping cart---------')
+    recom_res = app.get_response(user_id, product_id)
+    for item in eval(recom_res):
+        print("commidity skuId: {}".format(item["skuId"]))
 
 
 if __name__ == "__main__":
