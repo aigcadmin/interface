@@ -1,0 +1,56 @@
+------------------------------------------------------
+A. Fashion & Apparel
+2. Women's Clothing
+3. Women's Curve Clothing
+4. Women's Shoes
+6. Men's Clothing
+7. Men's Shoes
+25. Men's Big & Tall
+26. Men's Underwear & Sleepwear
+
+B. Electronics & Technology
+18. Electronics
+24. Cell Phones & Accessories 
+29. Smart Home 
+33. Office & tech
+
+C. Home Living
+1. Home & Kitchen
+19. Tools & Home Improvement 
+20. Appliances
+31. Home Textiles & Sewing 
+32. Home & Garden
+
+D. Kids & Family
+11. Toys & games
+13. Kids' Fashion
+14. Kid's Shoes
+21. Office & School Supplies 
+23. Pet Supplies
+
+E. Health & Wellness
+10. Beauty & Health
+15. Baby & Maternity
+22. Health & Household
+27. Patio, Lawn & Garden
+
+F. Sports & Outdoor Activities
+8. Sports & Outdoors
+12. Automotive
+27. Patio, Lawn & Garden
+28. Industrial & Commercial
+
+G. Hobbies & Entertainment
+11. Toys & Games 
+17. Arts, Crafts & Sewing 
+30. Musical Instruments
+31. Home textile & sewing
+
+H. Accessories & Lifestyle
+5. Women's Lingerie & Lounge
+9. Jewelry & Accessories
+16. Bags & Luggage
+19. Tools & Home Improvement
+21. Office & School Supplies
+------------------------------------------------------
+

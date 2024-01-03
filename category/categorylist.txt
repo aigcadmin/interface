@@ -1,0 +1,893 @@
+# DO NOT CHANGE THIS FILE FORMAT
+
+1. Home & Kitchen
+1.  Couch & Sofa Decor
+2.  Bedding
+3.  Irons & Steamers
+4.  Window Treatments & Hardware
+5.  Blankets & Throws
+6.  Rugs & Mats
+7.  Small Appliances & Accessories
+8.  Closet & Laundry Storage
+9.  Kitchen & Table Linens
+10.  Kitchen Storage & Organization
+11.  Lighting & Ceiling Fans
+12.  Dining & Entertaining
+13.  Travel & To-Go Drinkware
+14.  Food Service Equipment & Supplies
+15.  Vacuums & Floor Care
+16.  Air Quality
+17.  Cookware
+18.  Glassware & Drinkware
+19.  Towels & Shower Curtains
+20.  Seasonal Decor
+21.  Kids' Home Store
+22.  Heating & Cooling
+23.  Home Decor Products
+24.  Coffee, Tea & Espresso
+25.  Home Storage & Organization
+26.  Bath
+27.  Cleaning Supplies
+28.  Wine Making & Supplies
+29.  Kitchen Utensils & Supplies
+30.  Bakeware
+31.  Event & Party Supplies
+32.  Wall Art
+33.  Kitchen & Dining
+34.  Bathroom
+35.  Household Cleaning
+36.  Outdoor & Garden
+37.  Home Textile
+38.  Lighting & Lamp
+39.  Furniture
+40.  Cleaning & laundry
+41.  Household appliances
+42.  Safety & security
+
+2. Women's Clothing
+43.  Women's Coat & Jacket
+44.  Women's Blazer
+45.  Women's Wedding Party Wear
+46.  Women's Jeans
+47.  Women's Cosplay Costume
+48.  Women's Denim Jackets & Coats
+49.  Women's Two-piece Outfits
+50.  Women's Jumpsuits
+51.  Women's Denim Apparel
+52.  Women's Bodysuits
+53.  Women's Denim Skirts
+54.  Women's Pants
+55.  Women's Rash Guard Swimsuit
+56.  Women's Sweaters
+57.  Women's Skinny-Fit Pants
+58.  Women's Dresses
+59.  Women's Skirts
+60.  Women's Blouses & Shirts
+61.  Women's Sweatshirts
+62.  Women's Shorts
+63.  Women's T-Shirt
+64.  Women's Tank Tops & Camis
+65.  Women's Beach Cover Ups
+66.  Women's Athleisure
+67.  Women's Denim Shorts
+68.  Women's Beachwear
+69.  Sporty Sweatshirts
+70.  Women's Traditional & Cultural Wear
+71.  Women's Swimwear
+72.  Tops
+73.  Dresses
+74.  Bottoms
+75.  Co-ords
+76.  Denim
+77.  Activewear
+78.  Loungewear
+79.  Sleepwear
+80.  Sweaters & Cardigans
+81.  Hoodies & Sweatshirts
+82.  Suits
+83.  Active & loungewear
+84.  Jumpsuits & rompers
+85.  Lingerie, hosiery, & shapewear
+86.  Outwear & jackets
+87.  Pants & leggings
+88.  Sets
+89.  Sleepwear & robes
+90.  Specialty workwear
+91.  Swimsuits & coverups
+
+3. Women's Curve Clothing
+92.  Curve Loungewear & Sleepwear
+93.  Curve Sexy Lingerie & Costumes
+94.  Curve Cami&Tank Tops
+95.  Curve Beachwear
+96.  Curve Shorts
+97.  Curve Activewear
+98.  Curve Two Pieces Set
+99.  Curve Underwear
+100.  Curve Jumpsuits & Bodysuits
+101.  Curve Pants
+102.  Curve Skirts
+103.  Curve Leggings
+104.  Curve Blouses
+105.  Curve Dresses
+106.  Curve T-shirts
+107.  Curve Sweatshirt
+108.  Curve Traditional Wear
+109.  Tops
+110.  Bottoms
+111.  Denim
+112.  Hoodies & Sweatshirts
+113.  Sweaters
+114.  Jackets & Coats
+115.  Co-ords
+116.  Suits
+117.  Intimates
+118.  Party Wear
+119.  Wedding
+
+4. Women's Shoes
+120.  Women's Over the knee Boots
+121.  Women's Knee High Boots
+122.  Women's Mid Calf Boots
+123.  Women's Ankle Boots & Booties
+124.  Women's slippers
+125.  Women's Oxford Shoes
+126.  Women's Platform & Wedge Sandals
+127.  Women's Fashion Sneakers
+128.  Women's Heeled Sandals
+129.  Women's Work & Safety Shoes
+130.  Women's Mules & Clogs
+131.  Women's Flip Flops
+132.  Women's Loafers & Slip-Ons
+133.  Women's Canvas Shoes
+134.  Women's Slide Sandals
+135.  Women's Pumps
+136.  Women's Flats
+137.  Shoe Accessories
+138.  Women's Flat Sandals
+139.  Accessories For Crocs
+140.  Sale
+141.  Fashion Boots
+142.  Sandals
+143.  Wedges & Flatform
+144.  Outdoor Shoes
+145.  Wide Fit Shoes
+146.  Shoe care
+
+5. Women's Lingerie & Lounge
+147.  Women's Bras & Bralettes
+148.  Women's Shapewear
+149.  Women's Panties
+150.  Women's Sleepwear
+151.  Women's Lingerie Set
+152.  Women's Bralette
+153.  Women's Stockings & Hosiery
+154.  Women's Lingerie Accessories
+155.  Women's Loungewear
+156.  Women's Sexy Lingerie
+157.  Socks & Hosiery
+158.  Curve Intimates
+159.  Thermal Underwear
+
+6. Men's Clothing
+160.  Men's Jackets &Coats
+161.  Men's Suits & Separates
+162.  Men's Sweaters
+163.  Men's Cargo Pants
+164.  Men's Jeans
+165.  Men's Pants
+166.  Men's Casual & Dress Shirts
+167.  Men's Top
+168.  Men's Polos
+169.  Men's Casual Pants
+170.  Men's Swimwear
+171.  Men's Sets
+172.  Men's Hoodies & Sweatshirts
+173.  Men's Shorts
+174.  Men's T-Shirts
+175.  Men's Tank Tops
+176.  Outerwear & jackets
+177.  Shirts
+178.  Specialty workwear
+179.  Suits & tuxedos
+180.  Tops & tees
+181.  Sleep & underwear
+182.  Traditional & cultural wear
+183.  Bottoms
+184.  Co-ords
+185.  Denim
+186.  Accessories
+187.  Activewear
+188.  Outdoor Apparel
+
+7. Men's Shoes
+189.  Men's Work & Safety Shoes
+190.  Men's Slippers
+191.  Men's Snow Boots
+192.  Men's Skate Shoes
+193.  Men's Boots
+194.  Men's Rain Boots
+195.  Men's Sandals
+196.  Men's Casual Shoes
+197.  Men's Loafers & Slip-Ons
+198.  Men's Semi-Formal Shoes
+199.  Men's Mules & Clogs
+200.  Men's Canvas Shoes
+201.  Men's shoes
+202.  Shoe care
+
+8. Sports & Outdoors
+203.  Men's Outdoor Clothing
+204.  Women's Winter Sports Clothing
+205.  Men's Activewear
+206.  Men's Winter Sports Clothing
+207.  Women's Winter Boots
+208.  Women's Activewear
+209.  Women's Dance Shoes
+210.  Women's Outdoor Clothing
+211.  Outdoor Lights
+212.  Sports Electronics & Gadgets
+213.  Women's Yoga Apparel
+214.  Men's Sports Clothing
+215.  Women's Rain Boots
+216.  Men's Running & Fitness Clothing
+217.  Women's Skate Shoes
+218.  Women's Sport Sandals
+219.  Women's Running Shoes
+220.  Men's Water Sports Clothing
+221.  Women's Sports Shoes
+222.  Game Room & Backyard
+223.  Kids' Sports & Outdoor Clothing
+224.  Men's Sports & Outdoor Shoes
+225.  Sports
+226.  Exercise & Fitness Supplies
+227.  Outdoor Caps & Headwear
+228.  Sports Medicine
+229.  Picnic & Camp Kitchen
+230.  Women's Sports Accessories
+231.  Kids' Sports & Outdoor Shoes
+232.  Camping & Hiking
+233.  Bags & Backpacks
+234.  Sports & Outdoor Accessories
+235.  Boat Supplies
+236.  Hunting & Tactical Accessories
+237.  Yoga & Fitness
+238.  Cycling
+239.  Golf
+240.  Fishing
+241.  Climbing & Survival Tools
+242.  Winter Sports
+243.  Swimming, Diving & Water Sports
+244.  Women's Water Shoes
+245.  Brands
+246.  Fitness & Body Building
+247.  Sports Safety & Shaper
+248.  Bikes, scooters, & skateboards
+249.  Sneakers
+250.  Sports gear
+251.  Sportswear
+
+9. Jewelry & Accessories
+252.  Men's Earmuffs
+253.  Men's Gloves & Mittens
+254.  Men's Watches
+255.  Men's Hats & Caps
+256.  Men's Suspenders
+257.  Men's Belts
+258.  Watch Accessories
+259.  Jewelry Boxes & Organizers
+260.  Men's Glasses
+261.  Women's Earmuffs
+262.  Cigarette Cases
+263.  Women's Watches
+264.  Women's Gloves & Mittens
+265.  Women's Glasses
+266.  Face Covering
+267.  Women's Faux Collar
+268.  Women's Belts
+269.  Jewelry Cleaning & Care
+270.  Women's Hats & Caps
+271.  Men's Accessories
+272.  Men's Ties & Accessories
+273.  Women's Glasses Accessories
+274.  Men's Wigs
+275.  Hair Accessories
+276.  Hand Fans
+277.  Women's Jewelry
+278.  Women's Costumes Accessories
+279.  Women's Keyrings & Keychains
+280.  Applique Patches
+281.  Men's Jewelry
+282.  Men's Keyrings & Keychains
+283.  Loose Gemstones
+284.  Jewelry Making Accessories
+285.  Women's Buttons & Pins
+286.  Glasses & Eyewear Accessories
+287.  Fashion Jewelry
+288.  Jewelry Making
+289.  Watches & Accessories
+290.  Scarves
+291.  Wedding Accessories
+292.  Gift Packaging & Jewelry Displays
+293.  Face Coverings & Accessories
+294.  Faux Collar & Ties
+295.  Accessories Patches
+296.  Accessories Storage
+297.  Accessories DIY & Tools
+298.  Jewelry Gifts
+299.  Custom jewelry
+
+10. Beauty & Health
+300.  Salon & Massage Equipment
+301.  Hair Cutting Tools
+302.  Shave & Hair Removal
+303.  Styling Tools & Appliances
+304.  Beauty Tools
+305.  Makeup bags & Storage
+306.  Refillable Containers
+307.  Bathing Accessories
+308.  False Eyelashes
+309.  Hair Care
+310.  Personal Care
+311.  Body Makeup
+312.  Skin Care
+313.  Hair Styling Accessories
+314.  Facial care
+315.  Nail Art Decoration
+316.  Nail Polish
+317.  Temporary Tattoos
+318.  Nail Powder
+319.  Press on Nails
+320.  Makeup
+321.  Nail, Hand and Foot Care
+322.  Sexual Wellness
+323.  Wigs & Accessories
+324.  Personal Care Appliance
+325.  Fragrances & Deodorants
+326.  Health Care
+327.  Bath & body
+328.  Wigs & extensions
+329.  Tattoo & body art
+330.  Tools & brushes
+
+11. Toys & games
+331.  Electronic Toys
+332.  Baby & Toddler Toys
+333.  Learning & Education
+334.  Dolls & Accessories
+335.  Drones & Flying toys
+336.  Sports & Outdoor Play
+337.  Toy Figures & Playsets
+338.  Games & Accessories
+339.  Building Toys
+340.  Drawing & Painting
+341.  Party Supplies
+342.  Novelty & Costumes
+343.  Puzzles
+344.  Puppets & Puppet Theaters
+345.  Dress Up & Pretend Play
+346.  Toy Guns & Accessories
+347.  Craft Supplies & Stickers
+348.  Kids arts & crafts
+349.  Kids block toys & action figures
+350.  Hobbies, collections, parties
+351.  Kids dolls & stuffed toys
+352.  Musical instruments & accessories
+353.  Kids outdoor play
+354.  Kids vehicle & remote control toys
+355.  Games
+356.  Music
+357.  Outdoor & water fun
+358.  DIY arts & crafts
+359.  Novelty & gag toys
+
+12. Automotive
+360.  Car Interior Care
+361.  Car Audio & Video
+362.  RV Parts & Accessories
+363.  Tools & Equipment
+364.  Lights & Lighting Accessories
+365.  Car Exterior Care
+366.  Covers, Mats & Cushions
+367.  Motorcycles
+368.  Car Phone Holder
+369.  Tires & Wheels
+370.  Car Storage & Organizers
+371.  Replacement Parts
+372.  Interior Accessories
+373.  Exterior Accessories
+374.  Car electronics
+375.  Motorcycle accessories & parts
+376.  Auto parts & tools
+377.  Motorcycle parts & tools
+378.  Protective gear
+379.  Roadside tools
+380.  Specialty vehicles
+
+13. Kids' Fashion
+381.  Boys' Shirts
+382.  Underwear & Pajamas
+383.  Boys' Pants
+384.  Girls' Dresses
+385.  Boys' Sets
+386.  Baby Dresses
+387.  Girls' Sets
+388.  Baby Bottoms
+389.  Kids' Accessories
+390.  Costumes & Accessories
+391.  Girls' Pants
+392.  Baby Sets
+393.  Baby Tops
+394.  Kids' Watches
+395.  Baby Onesies
+396.  Baby Accessories
+397.  Kids' Gloves & Scarves
+398.  Kids' Hats & Caps
+399.  Boys' Tops
+400.  Ties & Belts Accessories
+401.  Kids' Backpacks
+402.  Girls' Shirts
+403.  Kids' Bags
+404.  Boys' Swimwear
+405.  Girls' Tops
+406.  Kids' Hair Accessories
+407.  Girls' Swimwear
+408.  Kids' Jewelry
+409.  Girls' T-shirts
+410.  Kids' Sunglasses
+411.  Kids' Buttons & Pins
+412.  Boys' T-shirts
+413.  Teen Girls (13-16yrs)
+414.  Tween Girls (8-12yrs)
+415.  Young Girls (3-7yrs)
+416.  Teen Boys (13-16yrs)
+417.  Tween Boys (8-12yrs)
+418.  Young Boys (3-7yrs)
+419.  Family Outfits
+420.  Collection
+421.  Accessories
+422.  Socks & Tights
+423.  Toys & Games
+424.  Baby boy
+425.  Baby girl
+426.  Boys' clothing
+427.  Girls' clothing
+
+14. Kid's Shoes
+428.  Girls' Boots
+429.  Boys' Boots
+430.  Boys' Sandals & Slippers
+431.  Boys' Loafers & Slip-Ons
+432.  Girls' Sandals & Slippers
+433.  Girls' Loafers & Slip-Ons
+434.  Girls' Pumps
+435.  Girls' Athletic
+436.  Boys' Athletic
+437.  Baby Boy Shoes
+438.  Girls' Sneakers
+439.  Boys' Sneakers
+440.  Baby Girl Shoes
+441.  Girls' Mules & Clogs
+442.  Boys' Mules & Clogs
+
+15. Baby & Maternity
+443.  Personalized Products
+444.  Baby Storage & Organization
+445.  Safety
+446.  Baby Travel Gear
+447.  Potty Training
+448.  Baby Activity & Entertainment
+449.  Pregnancy & Maternity
+450.  Baby & Toddler Toys
+451.  Diapering
+452.  Strollers & Accessories
+453.  Nursery
+454.  Baby Care
+455.  Maternity Clothing
+456.  Feeding
+457.  Nursery Decor
+458.  Baby Gifts
+459.  Baby Stationery
+460.  Baby Boys (0-3yrs)
+461.  Baby Girls (0-3yrs)
+462.  Baby Unisex
+463.  Newborn (0-9m)
+464.  Baby Supplies
+465.  Baby Accessories
+466.  Baby Shoes
+467.  Socks & Tights
+
+16. Bags & Luggage
+468.  Hiking Daypacks
+469.  Laptop Bags
+470.  Briefcases
+471.  Women's Purse Set
+472.  Umbrellas
+473.  Casual Daypacks & Backpacks
+474.  Luggage & Travel Gear
+475.  Messenger Bags
+476.  Gym Bag
+477.  Men's Wallets & Card Cases
+478.  Women's Waist & Chest Bags
+479.  Men's Handbags
+480.  Men's Shoulder Bags
+481.  Waist & Chest bags
+482.  Storage Bag
+483.  Women's handbags
+484.  Women's Backpacks & Bookbags
+485.  Women's crossbody bags
+486.  Toiletry Bags
+487.  Luggage & Travel Bag Accessories
+488.  Women's Wallets & Card Cases
+489.  Passport Covers & Wallets
+490.  Women's shoulder bags
+491.  Women's Clutches & Evening Bags
+492.  Student Backpacks
+493.  Women's tote bags
+494.  Makeup Bag
+495.  Canvas Bags
+496.  Luggage & Travel Bags
+497.  Wallets & Cardholders
+498.  Functional Bags
+499.  Kids' bags & accessories
+500.  Men's bags & accessories
+501.  Luggage & accessories
+502.  Women's bags & accessories
+
+17. Arts, Crafts & Sewing
+503.  Personalized Products
+504.  Yarn
+505.  Knitting & Crochet Tools
+506.  Gift Wrapping Supplies
+507.  Party Decorations & Supplies
+508.  Sewing
+509.  Fabric
+510.  Needlework
+511.  Jewelry Casting Supplies
+512.  Model & Hobby Building
+513.  Organization, Storage & Transport
+514.  Beading & Jewelry Making
+515.  Crafting
+516.  Painting, Drawing & Art Supplies
+517.  Scrapbooking & Stamping
+518.  DIY specialities
+519.  Pottery & ceramics
+520.  Sewing & knitting
+
+18. Electronics
+521.  Lighting
+522.  Audio & Radio
+523.  Power Strips
+524.  Camera & Photo
+525.  Data Storage
+526.  Video Games
+527.  Computer Accessories
+528.  Tablets, Laptops & Accessories
+529.  Headphones, Earbuds & Accessories
+530.  Keyboards, Mice & Accessories
+531.  Batteries & Accessories
+532.  USB Gadgets
+533.  Computer Components
+534.  Hubs & Adapters
+535.  Computer & Office
+536.  Consumer Electronic
+537.  Smart Watches & Accessories
+538.  Speaker
+539.  Wireless Earbuds
+540.  Headset
+541.  Memory Cards
+542.  Pad Cases
+543.  Cables
+544.  Security Cameras
+545.  Gaming
+546.  Portable tech
+547.  Power source
+548.  Smart electronics
+549.  TV & home theater
+
+19. Tools & Home Improvement
+550.  Power Tools
+551.  Surveillance Cameras
+552.  Flashlights
+553.  Adhesives & Sealers
+554.  Welding & Soldering
+555.  Holiday Lighting
+556.  LED Strip Lights
+557.  Appliance & Accessories
+558.  Measuring & Layout Tools
+559.  Kitchen Fixtures
+560.  Wallpaper
+561.  Furniture & Storage
+562.  Lighting & Ceiling Fans
+563.  Building Supplies
+564.  Tool Organizers & Accessories
+565.  Power Outlets & Accessories
+566.  Bath Fixtures & Accessories
+567.  Personal Protective Equipment
+568.  Electrical
+569.  Winter Prep
+570.  Rough Plumbing
+571.  Hand Tools
+572.  Light Bulbs
+573.  Hardware
+574.  Wall Stickers & Murals
+575.  Safety & Security
+576.  Paint Tool
+577.  Lighting & Lamp
+578.  Hand Tools
+579.  Tool Parts
+580.  Garden Tools
+581.  Patio Furniture & Accessories
+582.  Electrical equipment & supplies
+583.  Kitchen furniture
+584.  Plumbing
+585.  Painting Supplies & Wall Treatments
+586.  Workplace Safety Supplies
+587.  Furniture
+588.  Door Intercom
+589.  Security Alarm
+590.  Safes
+591.  Hand & Power Tool Sets
+592.  Woodworking Machinery & Parts
+593.  Hand & Power Tool Accessories
+594.  Machine Tools & Accessories
+595.  Family Intelligence System
+596.  Construction Tools
+
+20. Appliances
+597.  Air Quality
+598.  Laundry Supplies
+599.  Vacuums & Floor Care
+600.  Hair Care
+601.  Juicer & Food Processor
+602.  Electric Massagers
+603.  Personal Care Electronics
+604.  Kitchen Appliances
+605.  Ultrasonic Insect & Pest Repellers
+606.  Coffee & Tea Appliances
+607.  Home Appliances
+608.  Oral Care Electronics
+609.  Health & Wellness Monitors
+610.  Heating & Cooling
+611.  Major appliances
+
+21. Office & School Supplies
+612.  Personalized Products
+613.  Office Electronics
+614.  Office Lighting
+615.  Carrying Cases
+616.  Cutting & Measuring Devices
+617.  Papers, Labels & Indexes
+618.  Storage & Organization
+619.  Tape, Adhesives & Fasteners
+620.  Writing Supplies & Correction Supplies
+621.  Ink Cartridge & Toner
+622.  Desk Accessories
+623.  Gift-wrap & crafts
+624.  Greeting Cards & Postcards
+625.  Stationery stickers
+626.  Notebooks & writing pads
+627.  Labels, indexes & stamps
+628.  Filing products
+629.  School & educational supplies
+630.  Calendars & cards
+631.  Presentation supplies
+632.  Office furniture & accessories
+633.  Computer & office
+634.  Office supplies
+635.  Reading
+636.  Teacher supplies
+
+22. Health & Household
+637.  Personalized Products
+638.  Electric Massagers
+639.  Foot Health
+640.  Household & Cleaning Supplies
+641.  Home Use Medical Supplies & Equipment
+642.  Blood Pressure Monitors
+643.  Health Care Products
+644.  Sexual Wellness Products
+645.  Vision Care
+646.  Personal Care Products
+647.  Wellness & Relaxation Products
+648.  Massage Tools
+649.  Stationery & Gift Wrapping Supplies
+650.  Oral Care Products
+651.  Tobacco-Related Products & Lighters
+652.  Indoor Insect & Pest Control
+653.  Shaving & hair removal
+654.  Baby care
+655.  Braces & supports
+656.  Chinese medicine
+657.  Contacts
+658.  Ear care
+659.  Eye care
+660.  Feminine care
+661.  Massage & relaxation
+662.  Men's personal care
+663.  Mobility aids
+664.  Pre & postpartum care
+665.  Sleep & snoring
+666.  Nutrition & weight management
+
+23. Pet Supplies
+667.  Personalized Products
+668.  Pet Beds & Furniture
+669.  Carriers & Travel Products
+670.  Pet Apparel & Accessories
+671.  Pet Cleaning
+672.  Training & Behavior
+673.  Bowls & Feeders
+674.  Pet Grooming
+675.  Pet Collars, Leashes & Harnesses
+676.  Pet Memorials & Funerary
+677.  Pet Toys
+678.  Pet Food & Treats
+679.  Birds
+680.  Fish, Reptiles & Amphibians
+681.  Small Animals
+682.  Other Pet Supplies
+683.  Pet toys
+684.  Pet accessories
+685.  Pet collars, leashes & harnesses
+686.  Pet outdoor gear
+687.  Bird supplies
+688.  Fish & aquarium supplies
+689.  Pet furniture
+690.  Pet health care
+691.  Farm animal supplies
+692.  Pet appliances
+693.  Horses
+694.  Cat supplies
+695.  Dog supplies
+696.  For farm animals
+697.  For fish & aquatic animals
+698.  Pet health & hygiene
+699.  Pet trackers
+
+24. Cell Phones & Accessories
+700.  Cell Phones
+701.  Wireless Chargers
+702.  Phone Accessories
+703.  Cables & Adapters
+704.  Stands
+705.  Photo Shooting
+706.  Maintenance, Upkeep & Repairs
+707.  Power Banks
+708.  Cases, Holsters & Sleeves
+709.  Decor
+710.  Cases & screen protectors
+711.  Communication tools
+712.  Connected devices
+713.  Cellphone parts
+714.  Chargers & accessories
+715.  Walkie talkies
+
+25. Men's Big & Tall
+716.  Men's Plus Size Sweaters
+717.  Men's Plus Size Jeans
+718.  Men's Plus Size Suits & Separates
+719.  Men's Plus Size Jackets & Coats
+720.  Men's Plus Size Tops
+721.  Men's Plus Size Shirts
+722.  Men's Plus Size Cargo Pants
+723.  Men's Plus Size Hoodies & Sweatshirts
+724.  Men's Plus Size Polos
+725.  Men's Plus Size Tracksuits & Sweatsuits
+726.  Men's Plus Size Swimwear
+727.  Men's Plus Size Pants
+728.  Men's Plus Size T-Shirts
+729.  Men's Plus Size Shorts
+730.  Men's Plus Size Tank Tops
+
+26. Men's Underwear & Sleepwear
+731.  Thermal Underwear
+732.  Men's Shapewear
+733.  Men's Novelty Clothing
+734.  Men's Loungewear
+735.  Men's Socks & Hosiery
+736.  Men's Underwear
+737.  Men's Exotic Apparel
+738.  Men's Sports Clothing
+739.  Women's Rain Boots
+740.  Men's Running & Fitness Clothing
+
+27. Patio, Lawn & Garden
+741.  Outdoor Holiday Lights
+742.  Canopies, Gazebos & Pergolas
+743.  Outdoor Lighting
+744.  Patio Furniture
+745.  Patio Furniture Covers
+746.  Generators & Portable Power
+747.  Mowers & Outdoor Power Tools
+748.  Greenhouses & Growing Lights
+749.  Watering & Irrigation
+750.  Outdoor Storage
+751.  Outdoor Carts & Picnic
+752.  Water Gardens & Ponds
+753.  Outdoor Heating & Cooling
+754.  Backyard Livestock & Bee Care
+755.  Planters & Containers
+756.  Grills & Outdoor Cooking
+757.  Gardening Tools
+758.  Plant Support & Care
+759.  Outdoor Decor
+760.  Thermometers & Weather Instruments
+761.  Pools & Hot Tubs
+762.  Pest Control
+763.  Garden Sculptures
+764.  Decorative Garden Stakes
+765.  Snow Removal
+766.  Bird & Wildlife Care
+767.  Yard Signs & Wall Art
+
+28. Industrial & Commercial
+768.  Commercial Lighting
+769.  Power Tools
+770.  Hand Tools
+771.  Test, Measure & Inspect
+772.  Cutting Tools
+773.  Retail Store Fixtures & Equipment
+774.  Abrasive & Finishing Products
+775.  Professional Dental Supplies
+776.  Occupational Health & Safety Products
+777.  Packaging & Shipping Supplies
+778.  Janitorial & Sanitation Supplies
+779.  Science Education
+780.  Adhesives & Sealants
+781.  Material Handling
+782.  Food Service Equipment & Supplies
+783.  Industrial Hardware
+784.  Lab & Scientific Products
+785.  Professional Medical Supplies
+786.  Printers & Accessories
+787.  Industrial Materials
+788.  Hydraulics, Pneumatics & Plumbing
+789.  Fasteners
+790.  Industrial Electrical
+
+29. Smart Home
+791.  Smart Locks
+792.  Smart Lighting
+793.  Smart Doorbells
+794.  WIFI & Networking
+795.  Security & Surveillance
+796.  Home Entertainment
+797.  Wearable Technology
+798.  Smart Devices
+799.  Plugs & Outlets
+
+30. Musical Instruments
+800.  Studio Recording & Stage Live
+801.  Drums & Percussions
+802.  Keyboards & MIDIs
+803.  Stringed Instruments
+804.  Brass & Woodwinds
+805.  Instrument Accessories
+
+31. Home textile & sewing
+806.  Table & Sofa Linens
+807.  Pillows
+808.  Window Treatments
+809.  Tapestry
+810.  Rugs & Carpets
+811.  Arts, Crafts & Sewing
+812.  Bedding
+813.  Cushions
+
+32. Home & Garden
+814.  Lighting
+815.  Costumes & accessories
+816.  Events & parties
+817.  Furniture
+818.  Garden & plant care
+819.  Home decor
+820.  Home improvement
+821.  Patio & backyard
+822.  Smoking
+
+33. Office & tech
+823.  Parts & storage
+824.  Hardware
+825.  Networking
+826.  Office tech
