@@ -50,7 +50,7 @@ class ChatInterface:
                 # execute the select_tag display process here @frontend
             elif item["flag"] == "commodity":
                 print('\n--------commodity info---------')
-                [print("commidity skuId: {}".format(x["skuId"])) for x in item["info"]]
+                [print("commidity skuId: {}".format(x["id"])) for x in item["info"]]
                 # execute the commodity display process here @frontend
             elif item["flag"] == "log":
                 prompt.update(item["info"])
@@ -116,7 +116,7 @@ def run_search_test(app):
     search_res = app.get_response("coat")
     print('\n--------search ... ---------')
     for item in eval(search_res):
-        print("commidity skuId: {}".format(item["skuId"]))
+        print("commidity skuId: {}".format(item["id"]))
 
 
 def run_recom_test(app):
@@ -126,7 +126,7 @@ def run_recom_test(app):
     print('\n--------recommend after the product detail page---------')
     recom_res = app.get_response(user_id, product_id)
     for item in eval(recom_res):
-        print("commidity skuId: {}".format(item["skuId"]))
+        print("commidity skuId: {}".format(item["id"]))
     
     # productid = 0: recommend in the main page
     user_id = 1234
@@ -134,7 +134,7 @@ def run_recom_test(app):
     print('\n--------recommend in the main page---------')
     recom_res = app.get_response(user_id, product_id)
     for item in eval(recom_res):
-        print("commidity skuId: {}".format(item["skuId"]))
+        print("commidity skuId: {}".format(item["id"]))
     
     # productid = -1: recommend after the shopping cart
     user_id = 1234
@@ -142,7 +142,7 @@ def run_recom_test(app):
     print('\n--------recommend after the shopping cart---------')
     recom_res = app.get_response(user_id, product_id)
     for item in eval(recom_res):
-        print("commidity skuId: {}".format(item["skuId"]))
+        print("commidity skuId: {}".format(item["id"]))
 
 
 if __name__ == "__main__":

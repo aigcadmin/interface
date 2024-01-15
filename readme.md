@@ -1,13 +1,25 @@
 # 商品字段 JSON 结构定义
 
-- **skuId**: 商品的ID
+<!-- - **skuId**: 商品的ID
 - **name**: 商品卡片中显示的标题
 - **price**: 商品价格
 - **url**: 商品主图的链接
 - **detailImagePath**: 商品详情图的路径，列表类型
 - **mainImagePath**: 商品主图的路径，列表类型
 - **comment**: 用户评论，列表类型
-- **ocr**: 暂时可以忽略该字段
+- **ocr**: 暂时可以忽略该字段 -->
+
+- **id**: 商品的ID
+- **image**: 商品的主图
+- **slider_image**: 商品的详情图
+- **store_name**: 商品的标题
+- **store_info**: 忽略该字段
+- **keyword**: 商品的关键词
+- **cate_id**: 商品的类别
+- **price**: 商品的售价
+- **ot_price**: 商品的原价（打折前）
+- **description**: 商品的description
+- **rating**: 商品的打分数据
 
 <!-- - **id**: 商品的ID
 - **store_name**: 商品卡片中显示的title
