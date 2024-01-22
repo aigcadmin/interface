@@ -56,6 +56,8 @@ class ChatInterface:
                 prompt.update(item["info"])
                 json.dump(prompt,open(self.local_path,'w'))
                 # execute the dialog saving process here @backend
+                print("the title for this dialog is:", item['info']['dialog_title'])
+                # the above line is the dialog title, text is 'title_text', image is from 'cate_id'
             else:
                 print("error: unknown flag")
         print()

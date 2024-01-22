@@ -21,6 +21,8 @@
 - **description**: 商品的description
 - **rating**: 商品的打分数据
 
+商品的全部数据可以直接在mysql的yz_store_product的表格中根据id索引得到。
+
 <!-- - **id**: 商品的ID
 - **store_name**: 商品卡片中显示的title
 - **price**: 商品价格
@@ -29,7 +31,7 @@
 - **comment**: 用户评论，列表类型
 - **cate_id**: 商品的字类别 -->
 
-### 关于图片的加载
+<!-- ### 关于图片的加载
 
 商品的图片全部通过 AWS 云端 CDN 加速来实现。算法返回的商品图片列表是云端路径，其前缀为：
 
@@ -38,7 +40,7 @@
 
 例如，如果商品返回的图片路径是 `img_dir_516/EN/jdItemImage_item_0_id_0.jpg`，那么相应的图片链接就是：
 
-[https://aigcadminimagebucket.s3.us-east-2.amazonaws.com/img_dir_516/EN/jdItemImage_item_0_id_0.jpg](https://aigcadminimagebucket.s3.us-east-2.amazonaws.com/img_dir_516/EN/jdItemImage_item_0_id_0.jpg)
+[https://aigcadminimagebucket.s3.us-east-2.amazonaws.com/img_dir_516/EN/jdItemImage_item_0_id_0.jpg](https://aigcadminimagebucket.s3.us-east-2.amazonaws.com/img_dir_516/EN/jdItemImage_item_0_id_0.jpg) -->
 
 
 <br>
@@ -85,7 +87,7 @@
   - 正值表示正常的商品详情页面后的推荐，值代表该商品ID。
 
 ### 返回数据
-- 返回10个推荐商品的列表。
+- 返回20个推荐商品的列表。
 
 <br>
 <!-- <br> -->
@@ -111,8 +113,10 @@
 prompt = app.load_data_from_disk()
 ```
 
-然后第 79 行，第 88-97 行，和第 106 行均来自前端的响应。对于前端响应，有统一的后端代码：
+然后第 81 行，第 90-99 行，和第 108 行均来自前端的响应。对于前端响应，有统一的后端代码：
 ```python
 return_data = app.get_response(prompt)
 app.post_process(prompt, return_data)
 ```
+
+关于对话的标题和图片，当返回的flag是"log"时，item['info']['dialog_title']对应的信息就是会话的标题信息。其中包含两个key: "title_text"和"cate_id", 根据前者显示文本，根据后者的子类别id(一共有826个)从分类页面的子类别图片库中调取获得。
