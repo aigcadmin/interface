@@ -139,3 +139,7 @@ app.post_process(prompt, return_data)
 ```
 
 关于对话的标题和图片，当返回的flag是"log"时，item['info']['dialog_title']对应的信息就是会话的标题信息。其中包含两个key: "title_text"和"cate_id", 根据前者显示文本，根据后者的子类别id(一共有826个)从分类页面的子类别图片库中调取获得。
+
+
+# Java 版本的算法接收api
+直接执行Main.java即可。
