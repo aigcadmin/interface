@@ -65,7 +65,7 @@ class StreamResponseHandler implements Iterable<JSONObject> {
 
 
 class ChatInterface {
-    private static final String BASE_URL = "http://127.0.0.1:8888";
+    private static final String BASE_URL = "http://47.251.65.65:80";
     private String url;
     private int caseId;
     private Path templatePath;
@@ -75,8 +75,8 @@ class ChatInterface {
         this.url = BASE_URL + "/chat";
         this.caseId = caseId;
         Path root = Paths.get(System.getProperty("user.dir"));
-        this.templatePath = root.resolve("dataengine/streamdebug/buffer/template_dialog.json");
-        this.localPath = root.resolve("dataengine/streamdebug/buffer/dialog_" + caseId + ".json");
+        this.templatePath = root.resolve("buffer/template_dialog.json");
+        this.localPath = root.resolve("buffer/dialog_" + caseId + ".json");
     }
 
     public JSONObject loadDataFromDisk() throws IOException {
